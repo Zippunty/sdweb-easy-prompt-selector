@@ -1,5 +1,18 @@
 # Easy Prompt Selector
 
+## 汉化说明
+
+[插件汉化来自知乎](https://www.zhihu.com/question/598034327/answer/3069903332)
+
+### 安装方式（汉化）：
+
+1. 打开扩展菜单
+2. 点击从URL安装
+3. 输入 `https://github.com/lijialong1313/sdweb-easy-prompt-selector` 在 "URL" 中.
+4. 点击安装并稍作等待.
+5. 在安装界面点击“重启WebUI”即可.
+
+
 [使い方(暫定)](https://blue-pen5805.fanbox.cc/posts/5306601)
 
 ## English Readme
