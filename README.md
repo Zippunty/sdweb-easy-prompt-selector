@@ -15,6 +15,9 @@
 
 [使い方(暫定)](https://blue-pen5805.fanbox.cc/posts/5306601)
 
+### 修复
+修复了因stable-diffusion-web-forge gradio button接口变动导致的UI显示问题（无法正确显示和加载模型的Preview）
+
 ## English Readme
 
 This extension, designed to simplify the process of inputting prompts, is currently available exclusively in Japanese. An English version may be considered for future development.
